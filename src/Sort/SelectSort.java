@@ -1,7 +1,5 @@
 package Sort;
 
-import java.util.Scanner;
-
 public class SelectSort {
     /*选择排序
 

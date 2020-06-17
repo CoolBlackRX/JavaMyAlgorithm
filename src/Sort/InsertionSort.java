@@ -1,7 +1,5 @@
 package Sort;
 
-import java.util.Scanner;
-
 public class InsertionSort {
 
     //插入排序
