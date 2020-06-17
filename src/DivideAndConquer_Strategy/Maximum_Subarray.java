@@ -19,8 +19,8 @@ public class Maximum_Subarray {
 
     private int find_Max_Crossing_Subarray(int[] arr,int low,int mid,int high){
         int sum = 0;
-        int max_left = 0;//找到从mid到左边最大元素和的位置
-        int max_right = 0;//找到从mid到右边最大元素和的位置
+        //int max_left = 0;//找到从mid到左边最大元素和的位置
+        //int max_right = 0;//找到从mid到右边最大元素和的位置
 
         int left_sum = arr[mid];
         sum = 0;
